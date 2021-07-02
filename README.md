@@ -1,2 +1,1 @@
-# Reminders
-Reminders List
+# Reminders List
